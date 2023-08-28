@@ -785,7 +785,7 @@
                 border: 2px solid #fff
             }
             100% {
-                border: 2px solid #ae004e
+                border: 2px solid #0d00ff
             }
         }
 
@@ -991,7 +991,7 @@
 
         @keyframes blinking {
             0% {
-                border: 3px solid #ae004e
+                border: 3px solid #0d00ff
             }
             100% {
                 border: 3px solid #ffffff
@@ -1020,7 +1020,7 @@
         }
 
         table.Slot-Thailand thead {
-            background: #ae004e
+            background: #0d00ff
         }
 
         table.Slot-Thailand thead th {
@@ -1028,7 +1028,7 @@
             font-weight: 700;
             color: #fff;
             text-align: center;
-            background: radial-gradient(circle 214px at 46.5% 54.2%, #ae004e 0, #000 96%)
+            background: radial-gradient(circle 214px at 46.5% 54.2%, #0d00ff 0, #000 96%)
         }
 
         .main-menu-container {
@@ -1067,7 +1067,7 @@
             font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             font-size: calc(8px+1vh);
             font-weight: 500;
-            border: 2px solid #ae004e;
+            border: 2px solid #0d00ff;
             border-radius: 5px;
             padding: 30px;
             text-align: center;
@@ -1098,15 +1098,15 @@
         .site-description {
             text-align: left;
             padding: 10px;
-            color: #ae004e;
+            color: #0d00ff;
             border-radius: 5px;
-            box-shadow: 0 0 8px 4px #ae004e
+            box-shadow: 0 0 8px 4px #0d00ff
         }
 
         .site-description hr {
             margin: 10px 0 10px 0;
-            color: #ae004e;
-            border: 1px solid #ae004e
+            color: #0d00ff;
+            border: 1px solid #0d00ff
         }
 
         .site-description p {
@@ -1237,7 +1237,7 @@
             font-variant: normal;
             font-weight: 200;
             line-height: 23px;
-            color: #ae004e
+            color: #0d00ff
         }
 
         #daftarisi a {
@@ -1304,9 +1304,9 @@
             line-height: 23px;
             padding: 10px;
             background: radial-gradient(circle 214px at 46.5% 54.2%, # 0, #000 96%);
-            -moz-box-shadow: 1px 1px 15px 0 #ae004e;
-            box-shadow: 1px 1px 15px 0 #ae004e;
-            border: solid #ae004e 3px;
+            -moz-box-shadow: 1px 1px 15px 0 #0d00ff;
+            box-shadow: 1px 1px 15px 0 #0d00ff;
+            border: solid #0d00ff 3px;
             text-decoration: none;
             display: flex;
             cursor: pointer;
@@ -1336,7 +1336,7 @@
             font-weight: 700;
             line-height: 23px;
             padding: 10px;
-            background: radial-gradient(circle 214px at 46.5% 54.2%, #ae004e 0, #000 96%);
+            background: radial-gradient(circle 214px at 46.5% 54.2%, #0d00ff 0, #000 96%);
             color: #fff;
             text-decoration: none;
             display: flex;
@@ -1348,7 +1348,7 @@
 
         .tron-regis:hover {
             background: #000000;
-            border: solid #ae004e 5px;
+            border: solid #0d00ff 5px;
             -webkit-border-radius: 0;
             -moz-border-radius: 0;
             border-radius: 0;
@@ -1367,10 +1367,10 @@
             font-weight: 300;
             line-height: 15px;
             padding: 10px;
-            background: radial-gradient(circle 214px at 46.5% 54.2%, #ae004e 0, #000 96%);
-            -webkit-box-shadow: 1px 1px 10px 0 #ae004e;
-            -moz-box-shadow: 1px 1px 10px 0 #ae004e;
-            box-shadow: 1px 1px 10px 0 #ae004e;
+            background: radial-gradient(circle 214px at 46.5% 54.2%, #0d00ff 0, #000 96%);
+            -webkit-box-shadow: 1px 1px 10px 0 #0d00ff;
+            -moz-box-shadow: 1px 1px 10px 0 #0d00ff;
+            box-shadow: 1px 1px 10px 0 #0d00ff;
             border: solid #b7950b 2px;
             text-decoration: none;
             display: flex;
@@ -1393,10 +1393,10 @@
             -webkit-border-radius: 0;
             -moz-border-radius: 0;
             border-radius: 5px;
-            color: #ae004e;
+            color: #0d00ff;
             -webkit-box-shadow: 1px 1px 10px 0 #998513;
             -moz-box-shadow: 1px 1px 10px 0 #6c7c0e;
-            box-shadow: 1px 1px 10px 0 #ae004e;
+            box-shadow: 1px 1px 10px 0 #0d00ff;
             display: block;
             cursor: pointer;
             text-align: center;
@@ -1485,7 +1485,7 @@
                 background-color: transparent;
                 justify-content: center;
                 display: flex;
-                border-bottom: solid #ae004e 2px;
+                border-bottom: solid #0d00ff 2px;
                 padding: auto;
                 border-radius: 10px
             }
@@ -1498,7 +1498,7 @@
         }
 
         .updated {
-            border: solid 2px #ae004e;
+            border: solid 2px #0d00ff;
             padding: 10px
         }
 
@@ -1575,7 +1575,7 @@
                 border: 2px solid #fff
             }
             100% {
-                border: 2px solid #ae004e
+                border: 2px solid #0d00ff
             }
         }
 
@@ -1588,7 +1588,7 @@
             display: flex;
             justify-content: space-around;
             position: fixed;
-            background: radial-gradient(circle 214px at 46.5% 54.2%, #ae004e 0, #000 96%);
+            background: radial-gradient(circle 214px at 46.5% 54.2%, #0d00ff 0, #000 96%);
             padding: 5px 0;
             left: 0;
             right: 0;
