@@ -8,7 +8,7 @@
     <meta name="description" content="Slot Gacor merupakan situs judi slot online gacor yang gampang menang maxwin hari ini dan banyak bonus serta free spin untuk member baru yang bergabung." />
     <meta name="keywords" content="slot, slot gacor, slot online, slot gacor hari ini, slot gacor malam ini, slot resmi, judi slot, daftar slot online, situs slot gacor, link slot" />
     <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
-    <link itemprop="mainEntityOfPage" rel="canonical" href="https://d3arsitektur.uho.ac.id/slot/" />
+    <link itemprop="mainEntityOfPage" rel="canonical" href="https://statistika.ppv.uho.ac.id/slot/" />
     <meta name="robots" content="index, follow" />
     <meta name="theme-color" content="#0a0a0a" />
     <meta content="true" name="HandheldFriendly">
@@ -30,7 +30,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Slot Gacor : Daftar Link Resmi Situs Slot Gacor Online Terpercaya 2023 Gampang Menang Maxwin" />
     <meta property="og:description" content="Slot Gacor merupakan situs judi slot online gacor yang gampang menang maxwin hari ini dan banyak bonus serta free spin untuk member baru yang bergabung." />
-    <meta property="og:url" content="https://d3arsitektur.uho.ac.id/slot/" />
+    <meta property="og:url" content="https://statistika.ppv.uho.ac.id/slot/" />
     <meta property="og:site_name" content="slot gacor" />
     <meta property="article:modified_time" content="2023-08-27T04:59:57+00:00" />
     <meta property="og:image" content="https://i.postimg.cc/8zPJ58kY/slot-gacor-banner.jpg" />
@@ -66,7 +66,7 @@
          "@type": "NewsArticle",
          "mainEntityOfPage":{
            "@type":"WebPage",
-           "@id":"https://d3arsitektur.uho.ac.id/slot/"
+           "@id":"https://statistika.ppv.uho.ac.id/slot/"
          },
          "headline": "Slot Gacor : Daftar Link Resmi Situs Slot Gacor Online Terpercaya 2023 Gampang Menang Maxwin",
          "image": {
@@ -78,7 +78,7 @@
          "author": {
             "@type":"Person",
             "name": "Slot Gacor",
-            "url": "https://d3arsitektur.uho.ac.id/slot/"
+            "url": "https://statistika.ppv.uho.ac.id/slot/"
          },
          "publisher": {
            "@type": "Organization",
@@ -99,7 +99,7 @@
     <div class="col-md-12">
     <div class="logomobi acenter">
     <span itemscope="itemscope" itemtype="https://schema.org/Brand">
-        <a itemprop="url" href="https://d3arsitektur.uho.ac.id/slot/" title="Slot Gacor"><a href="https://d3arsitektur.uho.ac.id/slot/" title="Slot Gacor">
+        <a itemprop="url" href="https://statistika.ppv.uho.ac.id/slot/" title="Slot Gacor"><a href="https://statistika.ppv.uho.ac.id/slot/" title="Slot Gacor">
             <amp-img src="https://i.ibb.co/xqKf46c/slot-gacor.png" alt="Slot Gacor" width="150" height="60"/></a>
     <meta itemprop="name" content="Slot Gacor"></a></span>
     </div>
@@ -113,7 +113,7 @@
     <div class="row mtop">
     <div class="col-md-4">
     <div class="logo acenter">
-    <span itemscope="itemscope" itemtype="https://schema.org/Brand"><a itemprop="url" href="https://d3arsitektur.uho.ac.id/slot/" title="Slot Gacor"><a href="https://d3arsitektur.uho.ac.id/slot/" title="Slot Gacor">
+    <span itemscope="itemscope" itemtype="https://schema.org/Brand"><a itemprop="url" href="https://statistika.ppv.uho.ac.id/slot/" title="Slot Gacor"><a href="https://statistika.ppv.uho.ac.id/slot/" title="Slot Gacor">
         <amp-img src="https://i.ibb.co/xqKf46c/slot-gacor.png" alt="Slot Gacor" width="300" height="68" layout="responsive"/></a>
     <meta itemprop="name" content="Slot Gacor"></a></span>
     </div>
